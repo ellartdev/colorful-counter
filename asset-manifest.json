@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/colorful-counter/static/css/main.bba7e0c8.chunk.css",
+    "main.js": "/colorful-counter/static/js/main.5e2c59f9.chunk.js",
+    "main.js.map": "/colorful-counter/static/js/main.5e2c59f9.chunk.js.map",
+    "runtime-main.js": "/colorful-counter/static/js/runtime-main.942cd881.js",
+    "runtime-main.js.map": "/colorful-counter/static/js/runtime-main.942cd881.js.map",
+    "static/js/2.9004eb3a.chunk.js": "/colorful-counter/static/js/2.9004eb3a.chunk.js",
+    "static/js/2.9004eb3a.chunk.js.map": "/colorful-counter/static/js/2.9004eb3a.chunk.js.map",
+    "index.html": "/colorful-counter/index.html",
+    "static/css/main.bba7e0c8.chunk.css.map": "/colorful-counter/static/css/main.bba7e0c8.chunk.css.map",
+    "static/js/2.9004eb3a.chunk.js.LICENSE.txt": "/colorful-counter/static/js/2.9004eb3a.chunk.js.LICENSE.txt",
+    "static/media/warning.46c9eb58.svg": "/colorful-counter/static/media/warning.46c9eb58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.942cd881.js",
+    "static/js/2.9004eb3a.chunk.js",
+    "static/css/main.bba7e0c8.chunk.css",
+    "static/js/main.5e2c59f9.chunk.js"
+  ]
+}
